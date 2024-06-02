@@ -1,2 +1,1 @@
 esta es la inicializacion del proyecto
-estos son los cambios de la feature/integrante2
